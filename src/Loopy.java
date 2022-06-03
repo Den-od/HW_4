@@ -9,5 +9,4 @@ public class Loopy {
         }
         System.out.println ("Цикл прекратился, т.к. условие x < 4 не выполняется") ;
     }
-
 }

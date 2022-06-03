@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a30b42ea-1c4d-4a83-b95c-0f434802922d" name="Changes" comment="№4 commit подправил вывод текста">
-      <change afterPath="$PROJECT_DIR$/src/Iftest.java" afterDir="false" />
+    <list default="true" id="a30b42ea-1c4d-4a83-b95c-0f434802922d" name="Changes" comment="№5 commit тест if">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loopy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Iftest">
+  <component name="RunManager" selected="Application.BearSong">
+    <configuration name="BearSong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BearSong" />
+      <module name="HW_4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Iftest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Iftest" />
       <module name="HW_4" />
@@ -52,6 +59,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BearSong" />
         <item itemvalue="Application.Iftest" />
         <item itemvalue="Application.Loopy" />
       </list>
@@ -94,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654289000449</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="№5 commit тест if">
+      <created>1654290581051</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654290581051</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +128,7 @@
     <MESSAGE value="second commit hello world" />
     <MESSAGE value="third commit &quot;while&quot;" />
     <MESSAGE value="№4 commit подправил вывод текста" />
-    <option name="LAST_COMMIT_MESSAGE" value="№4 commit подправил вывод текста" />
+    <MESSAGE value="№5 commit тест if" />
+    <option name="LAST_COMMIT_MESSAGE" value="№5 commit тест if" />
   </component>
 </project>
